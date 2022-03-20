@@ -46,14 +46,14 @@ Source Systems
 
 ## Key Features
 
-- **Medallion architecture** — Bronze / Silver / Gold layers on ADLS Gen2
+- **Medallion architecture** - Bronze / Silver / Gold layers on ADLS Gen2
 - **Real-time + batch** integration across policy, claims and telematics
-- **Customer 360 profile** — unified single view of each customer
+- **Customer 360 profile** - unified single view of each customer
 - **28% improvement** in marketing personalisation accuracy
 - **15% increase** in policy renewal rates
 - **35% faster** BI query performance via Synapse optimisations
 - **97% SLA compliance** across 125+ automated pipelines
-- **Azure Purview** — 3,500+ catalogued data assets with full lineage
+- **Azure Purview** - 3,500+ catalogued data assets with full lineage
 
 ## Tech Stack
 
@@ -98,6 +98,6 @@ customer-360-platform/
 
 ## Author
 
-**Pramod Vishnumolakala** — Senior Data Engineer  
+**Pramod Vishnumolakala** - Senior Data Engineer  
 [pramodvishnumolakala@gmail.com](mailto:pramodvishnumolakala@gmail.com) · [LinkedIn](https://linkedin.com/in/pramod-vishnumolakala)
 EOF
